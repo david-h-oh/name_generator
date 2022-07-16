@@ -1,9 +1,9 @@
 # Name Generator
 ## A character-level recurrent neural network model that generates new names
+
+
+### Data
 ---
-
-
-## Data
 The data comes from the Social Security Administration's [Popular Baby Names data](https://www.ssa.gov/oact/babynames/limits.html). I'm using the National data to ensure the largest coverage of all names given to babies born in the US. 
 
 
